@@ -13,12 +13,16 @@ body {
 }
 
 .logoLSU {
-    width: 15rem;
+    width: 6rem;
     margin: 0;
 }
 
 a.headerAnchor:hover, a.mainPageAnchor:hover {
-    background-color: white;
+    background-color: #ece9e9;
+    text-decoration-style: solid;
+    border-bottom-style: solid;
+    border-bottom-width: 3px;
+    border-bottom-color: gold;
 }
 
 
